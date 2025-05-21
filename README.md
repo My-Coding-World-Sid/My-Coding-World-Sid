@@ -41,18 +41,24 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🧑‍💻 Java Full Stack Developer Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lord-hydra&show_icons=true&theme=react&rank_icon=github" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lord-hydra&theme=react" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lord-hydra&show_icons=true&theme=react&custom_title=Java%20Full%20Stack%20Developer&hide=stars" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lord-hydra&theme=react" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lord-hydra&layout=compact&theme=react" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lord-hydra&layout=compact&theme=react&langs_count=10&hide_progress=false" width="48%" />
 </p>
 
 ---
+
+### ⚙️ Languages & Tools Expertise (Java Full Stack)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,bootstrap,react,nodejs,express,mysql,mongodb" />
+</p>
 
 ## ✨ Quote of the Day
 
