@@ -1,10 +1,9 @@
 <h1 align="center">Hi, I'm Siddhant Shukla</h1>
 <h3 align="center">A Web Developer in making</h3>
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400px"/>
+<p align="">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="400"/>
 </p>
-
 ---
 
 ## 🙋‍♂️ About Me
