@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Siddhant Shukla</h1>
 <h3 align="center">A Web Developer in making</h3>
 
-<p align="">
+<p align="Center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="400"/>
 </p>
 ---
@@ -40,7 +40,7 @@ Currently diving deeper into **Web Development** and **Data Structures and Algor
 
 ---
 
-## 📫 How to reach me:
+## 📫 Connect With Me:
 - Email: [siddhant@example.com](mailto:siddhant@example.com)
 - LinkedIn: [linkedin.com/in/siddhant-shukla](https://linkedin.com)
 
