@@ -1,47 +1,50 @@
+<h1 align="center">Hi, I'm Siddhant Shukla</h1>
+<h3 align="center">A Web Developer in making</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi%2C+I'm+Siddhant+Shukla;A+Web+Developer+in+Making" alt="Typing SVG" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400px"/>
 </p>
 
 ---
 
-### 🙋‍♂️ About Me
+## 🙋‍♂️ About Me
 
-I'm Siddhant Shukla, a passionate and curious learner with experience in *Web Development* and a strong foundation in *Java programming*.  
-Currently pursuing a diploma in *Artificial Intelligence and Machine Learning (AIML)*, and I love building real-world projects and solving problems using code.
-
-- 🔭 I’m currently working on Java-based web apps
-- 🌱 I’m learning advanced *Java + Web Development*
-- 💬 Ask me about *Java, HTML, CSS, JavaScript, MySQL*
-- ⚡ Fun fact: I love turning ideas into real projects
+I'm a passionate learner currently pursuing a Diploma in Artificial Intelligence and Machine Learning from RSR Rungta College of Engineering.  
+I love exploring new technologies, solving real-world problems and guiding others whenever I can.  
+Currently diving deeper into **Web Development** and **Data Structures and Algorithms**.  
 
 ---
 
-### 🛠️ My Tech Stack
+## 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,github,vscode,react,nodejs&theme=light" />
-</p>
-
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=My-Coding-World-Sid&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=My-Coding-World-Sid&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=My-Coding-World-Sid&theme=tokyonight" alt="Streak Stats" />
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-### 📫 Connect with Me
+## 📊 My GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/My-Coding-World-Sid"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=My-Coding-World-Sid&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=My-Coding-World-Sid&layout=compact&theme=dark&hide_border=true" width="45%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=My-Coding-World-Sid&theme=dark&hide_border=true" width="80%" />
+</p>
+
+---
+
+## 📫 How to reach me:
+- Email: [siddhant@example.com](mailto:siddhant@example.com)
+- LinkedIn: [linkedin.com/in/siddhant-shukla](https://linkedin.com)
+
+---
+
+<p align="center">⭐️ Thanks for visiting my profile!</p>
