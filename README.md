@@ -49,9 +49,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lord-hydra&layout=compact&theme=react&langs_count=10&hide_progress=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lord-hydra&theme=react&layout=compact&langs_count=6&hide=php,c,cpp&custom_title=Top%20Languages%20Used%20(Java%20Full%20Stack)" width="60%" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,javascript,mysql,mongodb" />
+</p>
 ---
 
 ### ⚙️ Languages & Tools Expertise (Java Full Stack)
