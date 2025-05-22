@@ -33,7 +33,11 @@ Currently diving deeper into **Web Development** and **Data Structures and Algor
   <img src="https://github-readme-stats.vercel.app/api?username=My-Coding-World-Sid&show_icons=true&theme=dark&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=My-Coding-World-Sid&layout=compact&theme=dark&hide_border=true" width="45%" />
 </p>
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-Used%20Daily-blue?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-UI%20Interaction-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SpringBoot-Backend-green?style=for-the-badge&logo=spring-boot&logoColor=white" />
+</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=My-Coding-World-Sid&theme=dark&hide_border=true" width="80%" />
 </p>
