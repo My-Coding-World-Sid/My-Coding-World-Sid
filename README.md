@@ -30,7 +30,7 @@ I'm a passionate Java developer and web developer with a strong foundation in co
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=My-Coding-World-Sid&theme=dark&hide_border=true" width="80%" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=My-Coding-World-Sid&layout=compact&theme=dark&hide_border=true" width="45%" />
+   
 </p>
 ## 📊 My GitHub Stats
 
