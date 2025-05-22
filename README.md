@@ -10,7 +10,16 @@ I'm a Java developer and web developer with a strong foundation in computer fund
 ---
 
 ## 🚀 Tech Skill
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
+<p>
+  <i class="fab fa-html5" style="font-size: 24px; color: #e34c26;"></i>
+  <i class="fab fa-css3-alt" style="font-size: 24px; color: #264de4;"></i>
+  <i class="fab fa-js" style="font-size: 24px; color: #f0db4f;"></i>
+  <i class="fab fa-java" style="font-size: 24px; color: #007396;"></i>
+  <i class="fas fa-database" style="font-size: 24px; color: #00758f;"></i>
+  <i class="fab fa-git-alt" style="font-size: 24px; color: #f34f29;"></i>
+</p>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"/>
