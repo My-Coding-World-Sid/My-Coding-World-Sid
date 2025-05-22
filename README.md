@@ -32,17 +32,8 @@ I'm a passionate Java developer and web developer with a strong foundation in co
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=My-Coding-World-Sid&theme=dark&hide_border=true" width="80%" />
    
 </p>
-## 📊 My GitHub Stats
 
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-Used%20Daily-blue?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-UI%20Interaction-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SpringBoot-Backend-green?style=for-the-badge&logo=spring-boot&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=My-Coding-World-Sid&theme=dark&hide_border=true" width="80%" />
-</p>
 
 ---
 
