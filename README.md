@@ -1,20 +1,15 @@
 <h1 align="center">Hi, I'm Siddhant Shukla</h1>
-<h3 align="center">A Web Developer in making</h3>
+<h3 align="center">Java Full Stack Developer</h3>
 
-<p align="Center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="400"/>
-</p>
----
+
 
 ## 🙋‍♂️ About Me
 
-I'm a passionate learner currently pursuing a Diploma in Artificial Intelligence and Machine Learning from RSR Rungta College of Engineering.  
-I love exploring new technologies, solving real-world problems and guiding others whenever I can.  
-Currently diving deeper into **Web Development** and **Data Structures and Algorithms**.  
-
+Hi, I'm Siddhant Shukla!
+I'm a passionate Java developer and web developer with a strong foundation in computer fundamentals and a Diploma in Artificial Intelligence & Machine Learning (AIML).
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Skill
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -29,10 +24,7 @@ Currently diving deeper into **Web Development** and **Data Structures and Algor
 
 ## 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=My-Coding-World-Sid&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=My-Coding-World-Sid&layout=compact&theme=dark&hide_border=true" width="45%" />
-</p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Java-Used%20Daily-blue?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-UI%20Interaction-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
