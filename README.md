@@ -36,7 +36,6 @@ I'm a Java developer and web developer with a strong foundation in computer fund
 ---
 
 ## 📫 Connect With Me:
-- Email: [siddhant@example.com](mailto:siddhant@example.com)
 - LinkedIn: [linkedin.com/in/siddhant-shukla](https://linkedin.com)
 
 ---
