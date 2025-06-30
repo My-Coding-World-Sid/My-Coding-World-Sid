@@ -36,7 +36,7 @@ I'm a Java developer and web developer with a strong foundation in computer fund
 ---
 
 ## 📫 Connect With Me:
-- LinkedIn: [linkedin.com/in/siddhant-shukla](https://linkedin.com)
+- [![LinkedIn Icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/siddhant101)
 
 ---
 
