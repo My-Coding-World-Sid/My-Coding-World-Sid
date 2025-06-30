@@ -5,8 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-Hi, I'm Siddhant Shukla!
-I'm a Java developer and web developer with a strong foundation in computer fundamentals in Artificial Intelligence & Machine Learning (AIML).
+I'm a Java developer and web developer with a strong foundation in computer fundamentals in Artificial Intelligence & Machine Learning.
 ---
 
 ## 🚀 Tech Skill
