@@ -36,7 +36,9 @@ I'm a Java developer and web developer with a strong foundation in computer fund
 ---
 
 ## 📫 Connect With Me:
-- [![LinkedIn Icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/siddhant101)
+-<a href="https://www.linkedin.com/in/siddhant101" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25px" alt="LinkedIn Icon"/>
+</a>
 
 ---
 
