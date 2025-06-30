@@ -40,9 +40,7 @@ I'm a Java developer and web developer with a strong foundation in computer fund
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" alt="LinkedIn Icon"/>
 </a>
 
-<a href="mailto:siddhantshukla31to10@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30px" alt="Email Icon"/>
-</a>
+
 
 ---
 
