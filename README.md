@@ -44,7 +44,10 @@ I'm a Java developer and web developer with a strong foundation in computer fund
   
 </p>
 
-https://github-readme-streak-stats.herokuapp.com/?user=My-Coding-World-Sid&theme=dark&hide_border=true
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=My-Coding-World-Sid&theme=dark&hide_border=true" alt="GitHub Streak Stats">
+</p>
+
 
 
 
