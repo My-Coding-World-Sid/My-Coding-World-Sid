@@ -37,20 +37,6 @@ I'm a Java developer and web developer with a strong foundation in computer fund
 </p>
 
 ---
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=My-Coding-World-Sid&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=My-Coding-World-Sid&layout=compact&theme=dark&hide_border=true" width="48%" />
-</p>
-
-
-
 
 
 
